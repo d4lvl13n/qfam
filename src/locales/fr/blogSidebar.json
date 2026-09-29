@@ -1,0 +1,23 @@
+{
+  "title": "Bons Plans",
+  "subtitle": "Découvrez nos recommandations exclusives",
+  "links": {
+    "plan1": {
+      "label": "Guide Digital Majorque",
+      "url": "/guides"
+    },
+    "plan2": {
+      "label": "Location de Voiture",
+      "url": "/blog/louez-une-voiture-a-majorque-avec-offugo-et-profitez-de-10/"
+    },
+    "plan3": {
+      "label": "Visites Guidées",
+      "url": "/blog/les-meilleures-visites-guidees-de-palma-en-francais-a-faire/"
+    },
+    "plan4": {
+      "label": "Autres Services",
+      "url": "/blog/autres-entrees-et-tickets/"
+    }
+  }
+}
+

@@ -1,0 +1,97 @@
+{
+  "gallery": {
+    "hero": {
+      "title": "Visita Palma con nosotros: Descubre nuestros Tours Guiados en Francés",
+      "subtitle": "🌴 ¡Hola a todos! Me llamo Rony, vivo en Mallorca desde hace más de 10 años — ¡y no me canso! Originario de Vendée, me enamoré de Palma, de su gastronomía, de su historia y de sus pequeñas calles llenas de encanto. Es para compartir esta pasión que he creado varias visitas guiadas para descubrir Palma de otra manera:",
+      "bio": ""
+    },
+    "highlights": {
+      "multilingual": {
+        "title": "Políglota Internacional",
+        "description": "Mallorquín, Español, Français, English"
+      },
+      "countries": {
+        "title": "5 Países, Miles de Vidas Tocadas",
+        "description": "España, Francia, Marruecos, Tunisia, Finlandia"
+      },
+      "sports": {
+        "title": "Élite Deportiva",
+        "description": "Selección de Rugby Francesa"
+      }
+    },
+    "section": {
+      "title": "Galería de Experiencias"
+    },
+    "images": {
+      "alcudia_beach": {
+        "title": "Playa de Alcudia",
+        "description": "Una de las playas más hermosas de Mallorca"
+      },
+      "palm_trees": {
+        "title": "Palmerales de Mallorca",
+        "description": "Paisajes idílicos bajo las palmeras"
+      },
+      "crystal_waters": {
+        "title": "Aguas Cristalinas",
+        "description": "Las aguas turquesa de la isla"
+      },
+      "sunset_alcudia": {
+        "title": "Atardecer en Alcudia",
+        "description": "Los atardeceres más hermosos de Mallorca"
+      },
+      "qfam1": {
+        "title": "Majestuosa Mallorca",
+        "description": "Descubre los paisajes más hermosos de la isla"
+      },
+      "qfam2": {
+        "title": "Calas Secretas",
+        "description": "Playas escondidas lejos de las multitudes"
+      },
+      "qfam3": {
+        "title": "Pueblos Auténticos",
+        "description": "La autenticidad de los pueblos mallorquines"
+      },
+      "qfam4": {
+        "title": "Gastronomía Local",
+        "description": "Saborea las especialidades de Mallorca"
+      },
+      "qfam5": {
+        "title": "Palma la Magnífica",
+        "description": "La capital con mil encantos"
+      },
+      "qfam6": {
+        "title": "Calas Paradisíacas",
+        "description": "Calas que quitan el aliento"
+      },
+      "qfam7": {
+        "title": "Naturaleza Preservada",
+        "description": "La isla en todo su esplendor"
+      },
+      "qfam8": {
+        "title": "Vistas Panorámicas",
+        "description": "Miradores excepcionales"
+      },
+      "qfam10": {
+        "title": "Tradiciones y Cultura",
+        "description": "Inmersión en la cultura mallorquina"
+      },
+      "qfam11": {
+        "title": "Playas de Ensueño",
+        "description": "Arena fina y aguas turquesa"
+      },
+      "qfam12": {
+        "title": "Escapadas Inolvidables",
+        "description": "Crea recuerdos en Mallorca"
+      },
+      "qfam13": {
+        "title": "Arte y Arquitectura",
+        "description": "El patrimonio excepcional de la isla"
+      },
+      "qfam14": {
+        "title": "Aventura y Descubrimiento",
+        "description": "Explora Mallorca de otra manera"
+      }
+    }
+  }
+}
+

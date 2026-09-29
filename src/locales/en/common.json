@@ -1,0 +1,102 @@
+{
+  "navigation": {
+    "home": "Home",
+    "classes": "Services",
+    "gallery": "Gallery",
+    "testimonials": "Reviews",
+    "instructors": "Guide",
+    "schedule": "Schedule",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "book_now": "Book Now",
+    "book_class": "Explore our Services",
+    "language": "Language"
+  },
+  "brand": {
+    "name": "Que faire à Majorque"
+  },
+  "common": {
+    "learn_more": "Learn More",
+    "get_started": "Get Started",
+    "book_class": "Book Class",
+    "view_all": "View All",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "required": "Required",
+    "optional": "Optional"
+  },
+  "buttons": {
+    "first_class_free": "Free Guide",
+    "view_schedule": "View Services",
+    "contact_us": "Contact Us",
+    "contact_whatsapp": "Contact via WhatsApp",
+    "sign_up": "Sign Up",
+    "login": "Log In"
+  },
+  "forms": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  },
+  "time": {
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "sunrise": "Sunrise",
+    "early_morning": "Early Morning"
+  },
+  "languages": {
+    "spanish": "Español",
+    "english": "English",
+    "french": "Français",
+    "current": "EN"
+  },
+  "blog": {
+    "badge": "Our Blog",
+    "title": "Mallorca Tips & News",
+    "subtitle": "Discover our best tips, practical guides and news to fully enjoy Mallorca",
+    "loading": "Loading articles...",
+    "error_title": "Error loading",
+    "coming_soon_title": "Coming Soon",
+    "coming_soon_subtitle": "We're preparing inspiring content for you",
+    "read_more": "Read more",
+    "back_to_blog": "Back to Blog",
+    "article_badge": "Article",
+    "loading_article": "Loading article...",
+    "post_not_found": "Article not found",
+    "post_not_found_description": "The article you're looking for doesn't exist or has been removed.",
+    "view_all_articles": "View all articles",
+    "share": "Share",
+    "reading_time": "min read",
+    "load_more": "Load more articles",
+    "loading_more": "Loading more...",
+    "meta_title": "Blog | Que faire à Majorque",
+    "meta_description": "Latest news, practical tips and guides to discover Mallorca with Rony."
+  }
+  ,
+  "home": {
+    "reviews": {
+      "title": "Trusted by travellers",
+      "subtitle": "Real reviews — Google widget coming soon",
+      "basedOn": "Based on {{count}} Google reviews",
+      "widgetPlaceholder": "Google Reviews widget — integration in progress",
+      "cta": "See our offers"
+    },
+    "about": {
+      "title": "Your local guide to exploring Mallorca",
+      "excerpt": "I'm Rony and I've been living in Mallorca for over 10 years. Passionate about this beautiful island, I share my best secret addresses, authentic itineraries and practical tips so you can fully enjoy your stay, without wasting time or falling into tourist traps.",
+      "cta": "Learn more about Rony",
+      "feature1": "Over 10 years of local experience in Mallorca",
+      "feature2": "Authentic advice tested and approved on-site",
+      "feature3": "Trusted partnerships and honest recommendations"
+    }
+  }
+} 

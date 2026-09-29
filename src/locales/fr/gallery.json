@@ -1,0 +1,97 @@
+{
+  "gallery": {
+    "hero": {
+      "title": "Visite Palma avec nous : Découvre nos Tours Guidés en Français",
+      "subtitle": "🌴 Salut à tous ! Je m'appelle Rony, je vis à Majorque depuis plus de 10 ans — et je ne m'en lasse pas ! Originaire de Vendée, je suis tombé amoureux de Palma, de sa gastronomie, de son histoire et de ses petites ruelles pleines de charme. C'est pour partager cette passion que j'ai créé plusieurs visites guidées pour découvrir Palma autrement :",
+      "bio": ""
+    },
+    "highlights": {
+      "multilingual": {
+        "title": "Polyglotte International",
+        "description": "Majorquin, Espagnol, Français, Anglais"
+      },
+      "countries": {
+        "title": "5 Pays, Des Milliers de Vies Touchées",
+        "description": "Espagne, France, Maroc, Tunisie, Finlande"
+      },
+      "sports": {
+        "title": "Élite Sportive",
+        "description": "Sélection de Rugby Française"
+      }
+    },
+    "section": {
+      "title": "Galerie d'Expériences"
+    },
+    "images": {
+      "alcudia_beach": {
+        "title": "Plage d'Alcudia",
+        "description": "L'une des plus belles plages de Majorque"
+      },
+      "palm_trees": {
+        "title": "Palmeraies de Majorque",
+        "description": "Paysages idylliques sous les palmiers"
+      },
+      "crystal_waters": {
+        "title": "Eaux Cristallines",
+        "description": "Les eaux turquoise de l'île"
+      },
+      "sunset_alcudia": {
+        "title": "Coucher de Soleil à Alcudia",
+        "description": "Les plus beaux couchers de soleil de Majorque"
+      },
+      "qfam1": {
+        "title": "Majestueuse Majorque",
+        "description": "Découvrez les plus beaux paysages de l'île"
+      },
+      "qfam2": {
+        "title": "Criques Secrètes",
+        "description": "Les plages cachées loin des foules"
+      },
+      "qfam3": {
+        "title": "Villages Authentiques",
+        "description": "L'authenticité des villages majorquins"
+      },
+      "qfam4": {
+        "title": "Gastronomie Locale",
+        "description": "Savourez les spécialités de Majorque"
+      },
+      "qfam5": {
+        "title": "Palma la Magnifique",
+        "description": "La capitale aux mille charmes"
+      },
+      "qfam6": {
+        "title": "Calas Paradisiaques",
+        "description": "Des criques à couper le souffle"
+      },
+      "qfam7": {
+        "title": "Nature Préservée",
+        "description": "L'île dans toute sa splendeur"
+      },
+      "qfam8": {
+        "title": "Vues Panoramiques",
+        "description": "Des points de vue exceptionnels"
+      },
+      "qfam10": {
+        "title": "Traditions et Culture",
+        "description": "Immersion dans la culture majorquine"
+      },
+      "qfam11": {
+        "title": "Plages de Rêve",
+        "description": "Sable fin et eaux turquoise"
+      },
+      "qfam12": {
+        "title": "Escapades Inoubliables",
+        "description": "Créez des souvenirs à Majorque"
+      },
+      "qfam13": {
+        "title": "Art et Architecture",
+        "description": "Le patrimoine exceptionnel de l'île"
+      },
+      "qfam14": {
+        "title": "Aventure et Découverte",
+        "description": "Explorez Majorque autrement"
+      }
+    }
+  }
+}
+

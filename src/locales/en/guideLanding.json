@@ -1,0 +1,117 @@
+{
+  "guideLanding": {
+    "meta": {
+      "title": "Majorca Guide 2026 - The guide by a Frenchman living there",
+      "description": "Forget traditional guides. Get the complete Majorca 2026 guide by a local. +10 years of experience, honest recommendations, secret places and tested tips."
+    },
+    "hero": {
+      "badge": "New",
+      "title": "Your Majorca Guide",
+      "year": "2026",
+      "titleEnd": "is here!",
+      "subtitle": "\"The guide made by a Frenchman living in Majorca\"",
+      "cta": "Download now (€20)"
+    },
+    "badges": {
+      "new": "New",
+      "edition": "2026 Edition",
+      "readers": "satisfied readers"
+    },
+    "intro": {
+      "text": "Forget traditional guides (Routard, Petit Futé, Lonely Planet) and opt for a guide truly written by someone who has been living here for over 10 years."
+    },
+    "author": {
+      "title": "Who am I?",
+      "intro": "My name is Rony and I created \"Que faire à Majorque\" in 2023 (Instagram – Facebook)",
+      "bio": "Stop wasting time searching for scattered information on the Internet. This guide gives you all the keys to fully enjoy the island in 2026! You may have discovered us on Instagram or Facebook through our many publications (Photos – Videos – Vlogs).",
+      "highlights": [
+        "✍️ I live in Majorca, I'm not an agency",
+        "🙌 Honest recommendations, tested on site"
+      ]
+    },
+    "why": {
+      "title": "✔️ Why choose this guide?",
+      "reasons": [
+        {
+          "title": "Exclusive itineraries",
+          "text": "Explore Majorca differently with unique routes."
+        },
+        {
+          "title": "The best local addresses",
+          "text": "Restaurants, bars, hotels and activities carefully selected."
+        },
+        {
+          "title": "Practical advice",
+          "text": "Transport, weather, best times to travel."
+        },
+        {
+          "title": "Authentic experiences",
+          "text": "Meetings with locals and unusual activities."
+        },
+        {
+          "title": "Secret and preserved places",
+          "text": "Rare places, not widely available on the Internet."
+        },
+        {
+          "title": "An interactive and digital guide",
+          "text": "An easy-to-use PDF, with links but can be read without Internet (on the plane for example)"
+        }
+      ]
+    },
+    "discover": {
+      "title": "👀 What you will discover",
+      "items": [
+        "Hidden beaches away from crowds",
+        "Must-visit restaurants and my secret addresses",
+        "Activities for the whole family",
+        "The most spectacular hikes",
+        "Perfect spots to admire the sunset",
+        "Dolphin watching and scuba diving",
+        "The best rooftops and lively bars, beach clubs",
+        "Tips for renting a car in Majorca, and itineraries",
+        "A cultural agenda so you don't miss anything",
+        "Culinary specialties and Gift ideas"
+      ]
+    },
+    "howTo": {
+      "title": "💻 How to get your guide?",
+      "intro": "Order your guide securely via Stripe (Secure Payment). For more confidence, you can find our activities on Instagram, Facebook and contact us on WhatsApp.",
+      "security": [
+        {
+          "title": "Purchase protection",
+          "text": "Refund in case of problem"
+        },
+        {
+          "title": "Secure data",
+          "text": "Your banking information remains confidential"
+        },
+        {
+          "title": "Fast payment",
+          "text": "Purchase in a few clicks, without re-entering your info"
+        },
+        {
+          "title": "Global reliability",
+          "text": "Used by millions of people"
+        }
+      ],
+      "important": {
+        "title": "⬇️ IMPORTANT ⬇️",
+        "text1": "Make sure to provide your Email when purchasing, you will receive a link right after payment (usually within a few minutes).",
+        "text2": "A question, a problem: Send us an email or a WhatsApp message (Free application)",
+        "email": "Quefaireamajorque@gmail.com",
+        "whatsapp": "Chat on WhatsApp"
+      },
+      "excursions": "We offer selected excursions with trusted partners: sea trips to see dolphins, catamaran cruises, food tours in Palma, guided tours... Click on the image and book directly from our site, without additional fees compared to providers, and secure a spot for your vacation."
+    },
+    "cta": {
+      "title": "Ready to discover Majorca differently?",
+      "priceLabel": "Instant download",
+      "button": "Order the guide easily",
+      "security": {
+        "secure": "100% secure payment",
+        "refund": "Satisfaction guaranteed",
+        "instant": "Instant access"
+      }
+    }
+  }
+}

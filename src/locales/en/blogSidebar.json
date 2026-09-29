@@ -1,0 +1,23 @@
+{
+  "title": "Best Deals",
+  "subtitle": "Discover our exclusive recommendations",
+  "links": {
+    "plan1": {
+      "label": "Digital Guide Mallorca",
+      "url": "/guides"
+    },
+    "plan2": {
+      "label": "Car Rental",
+      "url": "/blog/louez-une-voiture-a-majorque-avec-offugo-et-profitez-de-10/"
+    },
+    "plan3": {
+      "label": "Guided Tours",
+      "url": "/blog/les-meilleures-visites-guidees-de-palma-en-francais-a-faire/"
+    },
+    "plan4": {
+      "label": "Other Services",
+      "url": "/blog/autres-entrees-et-tickets/"
+    }
+  }
+}
+

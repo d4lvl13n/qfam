@@ -1,0 +1,117 @@
+{
+  "guideLanding": {
+    "meta": {
+      "title": "Guide de Majorque 2026 - Le guide par un Français qui y vit",
+      "description": "Oubliez les guides traditionnels. Obtenez le guide complet de Majorque 2026 par un local. +10 ans d'expérience, recommandations honnêtes, lieux secrets et bons plans testés."
+    },
+    "hero": {
+      "badge": "Nouveau",
+      "title": "Ton Guide de Majorque",
+      "year": "2026",
+      "titleEnd": "est là !",
+      "subtitle": "« Le guide fait par un Français qui vit à Majorque »",
+      "cta": "Télécharger maintenant (20€)"
+    },
+    "badges": {
+      "new": "Nouveau",
+      "edition": "Édition 2026",
+      "readers": "lecteurs conquis"
+    },
+    "intro": {
+      "text": "Oubliez les guides traditionnels (Routard, Petit Futé, Lonely Planet) et optez pour un guide écrit vraiment par quelqu'un qui vit ici depuis plus de 10 ans."
+    },
+    "author": {
+      "title": "Qui suis-je ?",
+      "intro": "Je m'appelle Rony et j'ai créé « Que faire à Majorque » en 2023 (Instagram – Facebook)",
+      "bio": "Ne perdez plus de temps à chercher des informations dispersées sur Internet. Ce guide vous donne toutes les clés pour profiter pleinement de l'île en 2026 ! Vous nous avez peut-être découvert sur Instagram ou Facebook à travers nos nombreuses publications (Photos – Vidéos – Vlogs).",
+      "highlights": [
+        "✍️ Je vis à Majorque, je ne suis pas une agence",
+        "🙌 Recommandations honnêtes, testées sur place"
+      ]
+    },
+    "why": {
+      "title": "✔️ Pourquoi choisir ce guide ?",
+      "reasons": [
+        {
+          "title": "Des itinéraires exclusifs",
+          "text": "Explorez Majorque autrement avec des parcours inédits."
+        },
+        {
+          "title": "Les meilleures adresses locales",
+          "text": "Restaurants, bars, hôtels et activités triés sur le volet."
+        },
+        {
+          "title": "Des conseils pratiques",
+          "text": "Transports, météo, meilleures périodes pour partir."
+        },
+        {
+          "title": "Des expériences authentiques",
+          "text": "Rencontres avec les habitants et activités insolites."
+        },
+        {
+          "title": "Des lieux secrets et préservés",
+          "text": "Des endroits rares, peu présents sur Internet."
+        },
+        {
+          "title": "Un guide interactif et digital",
+          "text": "Un PDF facile à utiliser, avec des liens mais qui peut se lire sans avoir Internet (dans l'avion par exemple)"
+        }
+      ]
+    },
+    "discover": {
+      "title": "👀 Ce que vous allez découvrir",
+      "items": [
+        "Les plages cachées loin des foules",
+        "Les restaurants incontournables et mes adresses secrètes",
+        "Des Activités pour toute la famille",
+        "Les randonnées les plus spectaculaires",
+        "Les spots parfaits pour admirer le coucher du soleil",
+        "Observation des dauphins et plongée sous-marine",
+        "Les meilleurs rooftops et bars animés, les beach-clubs",
+        "Conseils pour louer une voiture à Majorque, et des itinéraires",
+        "Un agenda culturel pour ne rien manquer",
+        "Spécialités culinaires et idées Cadeaux"
+      ]
+    },
+    "howTo": {
+      "title": "💻 Comment obtenir votre guide ?",
+      "intro": "Commandez votre guide en toute sécurité via Stripe (Paiement sécurisé). Pour plus de confiance, vous pouvez retrouver nos activités sur Instagram, Facebook et nous contacter sur WhatsApp.",
+      "security": [
+        {
+          "title": "Protection des achats",
+          "text": "Remboursement en cas de problème"
+        },
+        {
+          "title": "Données sécurisées",
+          "text": "Vos infos bancaires restent confidentielles"
+        },
+        {
+          "title": "Paiement rapide",
+          "text": "Achat en quelques clics, sans ressaisir vos infos"
+        },
+        {
+          "title": "Fiabilité mondiale",
+          "text": "Utilisé par des millions de personnes"
+        }
+      ],
+      "important": {
+        "title": "⬇️ IMPORTANT ⬇️",
+        "text1": "Indique bien ton Email au moment de l'achat, tu vas recevoir un lien juste après avoir payé (quelques minutes en général).",
+        "text2": "Une question, un problème : Envoie-nous un e-mail ou un WhatsApp (Application gratuite)",
+        "email": "Quefaireamajorque@gmail.com",
+        "whatsapp": "Discuter sur WhatsApp"
+      },
+      "excursions": "Nous proposons des excursions sélectionnées avec des partenaires de confiance : sorties en mer pour voir les dauphins, croisières en catamaran, food tours à Palma, visites guidées… Cliquez sur l'image et réservez directement depuis notre site, sans frais supplémentaires par rapport aux prestataires, et assurez-vous une place pour vos vacances."
+    },
+    "cta": {
+      "title": "Prêt à découvrir Majorque autrement ?",
+      "priceLabel": "Téléchargement immédiat",
+      "button": "Commander le guide facilement",
+      "security": {
+        "secure": "Paiement 100% sécurisé",
+        "refund": "Satisfait ou remboursé",
+        "instant": "Accès instantané"
+      }
+    }
+  }
+}

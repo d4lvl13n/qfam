@@ -1,0 +1,97 @@
+{
+  "gallery": {
+    "hero": {
+      "title": "Visit Palma with us: Discover our Guided Tours in French",
+      "subtitle": "🌴 Hello everyone! My name is Rony, I've been living in Majorca for over 10 years — and I never get tired of it! Originally from Vendée, I fell in love with Palma, its gastronomy, its history and its charming little streets. It's to share this passion that I created several guided tours to discover Palma differently:",
+      "bio": ""
+    },
+    "highlights": {
+      "multilingual": {
+        "title": "International Polyglot",
+        "description": "Mallorcan, Spanish, French, English"
+      },
+      "countries": {
+        "title": "5 Countries, Thousands of Lives Touched",
+        "description": "Spain, France, Morocco, Tunisia, Finland"
+      },
+      "sports": {
+        "title": "Sports Elite",
+        "description": "French Rugby Selection"
+      }
+    },
+    "section": {
+      "title": "Experience Gallery"
+    },
+    "images": {
+      "alcudia_beach": {
+        "title": "Alcudia Beach",
+        "description": "One of Majorca's most beautiful beaches"
+      },
+      "palm_trees": {
+        "title": "Majorca's Palm Groves",
+        "description": "Idyllic landscapes under palm trees"
+      },
+      "crystal_waters": {
+        "title": "Crystal Clear Waters",
+        "description": "The turquoise waters of the island"
+      },
+      "sunset_alcudia": {
+        "title": "Sunset in Alcudia",
+        "description": "Majorca's most beautiful sunsets"
+      },
+      "qfam1": {
+        "title": "Majestic Majorca",
+        "description": "Discover the island's most beautiful landscapes"
+      },
+      "qfam2": {
+        "title": "Secret Coves",
+        "description": "Hidden beaches away from the crowds"
+      },
+      "qfam3": {
+        "title": "Authentic Villages",
+        "description": "The authenticity of Majorcan villages"
+      },
+      "qfam4": {
+        "title": "Local Cuisine",
+        "description": "Savor Majorca's specialties"
+      },
+      "qfam5": {
+        "title": "Magnificent Palma",
+        "description": "The capital with a thousand charms"
+      },
+      "qfam6": {
+        "title": "Paradise Coves",
+        "description": "Breathtaking coves"
+      },
+      "qfam7": {
+        "title": "Preserved Nature",
+        "description": "The island in all its splendor"
+      },
+      "qfam8": {
+        "title": "Panoramic Views",
+        "description": "Exceptional viewpoints"
+      },
+      "qfam10": {
+        "title": "Traditions and Culture",
+        "description": "Immersion in Majorcan culture"
+      },
+      "qfam11": {
+        "title": "Dream Beaches",
+        "description": "Fine sand and turquoise waters"
+      },
+      "qfam12": {
+        "title": "Unforgettable Escapes",
+        "description": "Create memories in Majorca"
+      },
+      "qfam13": {
+        "title": "Art and Architecture",
+        "description": "The island's exceptional heritage"
+      },
+      "qfam14": {
+        "title": "Adventure and Discovery",
+        "description": "Explore Majorca differently"
+      }
+    }
+  }
+}
+

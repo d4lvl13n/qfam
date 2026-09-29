@@ -1,0 +1,102 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "classes": "Servicios",
+    "gallery": "Galería",
+    "testimonials": "Reseñas",
+    "instructors": "Guía",
+    "schedule": "Horarios",
+    "about": "Nosotros",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "book_now": "Reservar Ahora",
+    "book_class": "Explorar nuestros servicios",
+    "language": "Idioma"
+  },
+  "brand": {
+    "name": "Que hacer en Mallorca"
+  },
+  "common": {
+    "learn_more": "Saber Más",
+    "get_started": "Comenzar",
+    "book_class": "Reservar Clase",
+    "view_all": "Ver Todo",
+    "close": "Cerrar",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "required": "Requerido",
+    "optional": "Opcional"
+  },
+  "buttons": {
+    "first_class_free": "Guía Gratuita",
+    "view_schedule": "Ver Servicios",
+    "contact_us": "Contáctanos",
+    "contact_whatsapp": "Contactar por WhatsApp",
+    "sign_up": "Inscribirse",
+    "login": "Iniciar Sesión"
+  },
+  "forms": {
+    "name": "Nombre",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "message": "Mensaje",
+    "submit": "Enviar",
+    "cancel": "Cancelar"
+  },
+  "time": {
+    "morning": "Mañana",
+    "afternoon": "Tarde",
+    "evening": "Noche",
+    "sunrise": "Amanecer",
+    "early_morning": "Madrugada"
+  },
+  "languages": {
+    "spanish": "Español",
+    "english": "English",
+    "french": "Français",
+    "current": "ES"
+  },
+  "blog": {
+    "badge": "Nuestro Blog",
+    "title": "Consejos & Noticias Mallorca",
+    "subtitle": "Descubre nuestros mejores consejos, guías prácticas y noticias para disfrutar al máximo de Mallorca",
+    "loading": "Cargando artículos...",
+    "error_title": "Error al cargar",
+    "coming_soon_title": "Próximamente",
+    "coming_soon_subtitle": "Estamos preparando contenido inspirador para ti",
+    "read_more": "Leer más",
+    "back_to_blog": "Volver al Blog",
+    "article_badge": "Artículo",
+    "loading_article": "Cargando artículo...",
+    "post_not_found": "Artículo no encontrado",
+    "post_not_found_description": "El artículo que buscas no existe o ha sido eliminado.",
+    "view_all_articles": "Ver todos los artículos",
+    "share": "Compartir",
+    "reading_time": "min de lectura",
+    "load_more": "Cargar más artículos",
+    "loading_more": "Cargando más...",
+    "meta_title": "Blog | Que hacer en Mallorca",
+    "meta_description": "Últimas noticias, consejos prácticos y guías para descubrir Mallorca con Rony."
+  }
+  ,
+  "home": {
+    "reviews": {
+      "title": "De confianza para viajeros",
+      "subtitle": "Reseñas reales — widget de Google próximamente",
+      "basedOn": "Basado en {{count}} reseñas de Google",
+      "widgetPlaceholder": "Widget de Google Reviews — integración en curso",
+      "cta": "Ver nuestras ofertas"
+    },
+    "about": {
+      "title": "Tu guía local para explorar Mallorca",
+      "excerpt": "Me llamo Rony y vivo en Mallorca desde hace más de 10 años. Apasionado por esta hermosa isla, comparto mis mejores direcciones secretas, itinerarios auténticos y consejos prácticos para que disfrutes plenamente de tu estancia, sin perder tiempo ni caer en trampas turísticas.",
+      "cta": "Saber más sobre Rony",
+      "feature1": "Más de 10 años de experiencia local en Mallorca",
+      "feature2": "Consejos auténticos probados y aprobados in situ",
+      "feature3": "Colaboraciones fiables y recomendaciones honestas"
+    }
+  }
+} 

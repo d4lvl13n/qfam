@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "badge": "Contacto",
+    "title": "Conecta con Nosotros",
+    "subtitle": "Estamos aquí para guiarte en tu viaje hacia el bienestar en la playa de Alcudia"
+  },
+  "info": {
+    "title": "Información de Contacto",
+    "location": {
+      "label": "Ubicación",
+      "address": "Playa de la Serenidad<br />07400 Puerto de Alcudia<br />Mallorca, Islas Baleares"
+    },
+    "phone": {
+      "label": "Teléfono",
+      "number": "+34 674 49 42 45 (WhatsApp)"
+    },
+    "email": {
+      "label": "Email",
+      "address": "quefaireamajorque@gmail.com"
+    },
+    "social": {
+      "title": "Síguenos"
+    }
+  }
+}
+

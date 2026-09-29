@@ -1,0 +1,21 @@
+{
+  "finalCTA": {
+    "badge": "🎯 ¿Listo para Descubrir Mallorca?",
+    "title": "Elige Tu Guía Ahora",
+    "subtitle": "Únete a cientos de viajeros y expatriados satisfechos",
+    "guideTravel": {
+      "title": "Guía de Viaje",
+      "price": "20€",
+      "socialProof": "500+ viajeros felices",
+      "cta": "Descubrir la Guía"
+    },
+    "guideExpat": {
+      "title": "Guía Expatriación",
+      "price": "9,99€",
+      "socialProof": "300+ expatriados satisfechos",
+      "cta": "Descubrir la Guía"
+    },
+    "trust": "✅ Pago Seguro • Acceso Inmediato • Garantía 30 días"
+  }
+}
+

@@ -1,0 +1,117 @@
+{
+  "guideLanding": {
+    "meta": {
+      "title": "Guía de Mallorca 2026 - La guía por un francés que vive aquí",
+      "description": "Olvida las guías tradicionales. Obtén la guía completa de Mallorca 2026 por un local. +10 años de experiencia, recomendaciones honestas, lugares secretos y consejos probados."
+    },
+    "hero": {
+      "badge": "Nuevo",
+      "title": "Tu Guía de Mallorca",
+      "year": "2026",
+      "titleEnd": "está aquí!",
+      "subtitle": "\"La guía hecha por un francés que vive en Mallorca\"",
+      "cta": "Descargar ahora (20€)"
+    },
+    "badges": {
+      "new": "Nuevo",
+      "edition": "Edición 2026",
+      "readers": "lectores satisfechos"
+    },
+    "intro": {
+      "text": "Olvida las guías tradicionales (Routard, Petit Futé, Lonely Planet) y opta por una guía escrita realmente por alguien que vive aquí desde hace más de 10 años."
+    },
+    "author": {
+      "title": "¿Quién soy?",
+      "intro": "Me llamo Rony y creé \"Que faire à Majorque\" en 2023 (Instagram – Facebook)",
+      "bio": "No pierdas más tiempo buscando información dispersa en Internet. Esta guía te da todas las claves para disfrutar plenamente de la isla en 2026. Quizás nos hayas descubierto en Instagram o Facebook a través de nuestras numerosas publicaciones (Fotos – Videos – Vlogs).",
+      "highlights": [
+        "✍️ Vivo en Mallorca, no soy una agencia",
+        "🙌 Recomendaciones honestas, probadas en el lugar"
+      ]
+    },
+    "why": {
+      "title": "✔️ ¿Por qué elegir esta guía?",
+      "reasons": [
+        {
+          "title": "Itinerarios exclusivos",
+          "text": "Explora Mallorca de otra manera con rutas únicas."
+        },
+        {
+          "title": "Las mejores direcciones locales",
+          "text": "Restaurantes, bares, hoteles y actividades cuidadosamente seleccionados."
+        },
+        {
+          "title": "Consejos prácticos",
+          "text": "Transporte, clima, mejores períodos para viajar."
+        },
+        {
+          "title": "Experiencias auténticas",
+          "text": "Encuentros con los habitantes y actividades insólitas."
+        },
+        {
+          "title": "Lugares secretos y preservados",
+          "text": "Lugares raros, poco presentes en Internet."
+        },
+        {
+          "title": "Una guía interactiva y digital",
+          "text": "Un PDF fácil de usar, con enlaces pero que se puede leer sin Internet (en el avión por ejemplo)"
+        }
+      ]
+    },
+    "discover": {
+      "title": "👀 Lo que vas a descubrir",
+      "items": [
+        "Playas escondidas lejos de las multitudes",
+        "Los restaurantes imprescindibles y mis direcciones secretas",
+        "Actividades para toda la familia",
+        "Las caminatas más espectaculares",
+        "Los lugares perfectos para admirar la puesta de sol",
+        "Observación de delfines y buceo",
+        "Los mejores rooftops y bares animados, los beach clubs",
+        "Consejos para alquilar un coche en Mallorca, e itinerarios",
+        "Una agenda cultural para no perderse nada",
+        "Especialidades culinarias e ideas de Regalos"
+      ]
+    },
+    "howTo": {
+      "title": "💻 ¿Cómo obtener tu guía?",
+      "intro": "Ordena tu guía de forma segura a través de Stripe (Pago seguro). Para más confianza, puedes encontrar nuestras actividades en Instagram, Facebook y contactarnos en WhatsApp.",
+      "security": [
+        {
+          "title": "Protección de compras",
+          "text": "Reembolso en caso de problema"
+        },
+        {
+          "title": "Datos seguros",
+          "text": "Tu información bancaria permanece confidencial"
+        },
+        {
+          "title": "Pago rápido",
+          "text": "Compra en pocos clics, sin volver a ingresar tu información"
+        },
+        {
+          "title": "Fiabilidad mundial",
+          "text": "Utilizado por millones de personas"
+        }
+      ],
+      "important": {
+        "title": "⬇️ IMPORTANTE ⬇️",
+        "text1": "Asegúrate de proporcionar tu Email al momento de la compra, recibirás un enlace justo después del pago (generalmente en unos minutos).",
+        "text2": "¿Una pregunta, un problema?: Envíanos un correo electrónico o un mensaje de WhatsApp (Aplicación gratuita)",
+        "email": "Quefaireamajorque@gmail.com",
+        "whatsapp": "Chatear en WhatsApp"
+      },
+      "excursions": "Proponemos excursiones seleccionadas con socios de confianza: salidas al mar para ver delfines, cruceros en catamarán, food tours en Palma, visitas guiadas... Haz clic en la imagen y reserva directamente desde nuestro sitio, sin cargos adicionales en comparación con los proveedores, y asegura un lugar para tus vacaciones."
+    },
+    "cta": {
+      "title": "¿Listo para descubrir Mallorca de otra manera?",
+      "priceLabel": "Descarga inmediata",
+      "button": "Pedir la guía fácilmente",
+      "security": {
+        "secure": "Pago 100% seguro",
+        "refund": "Satisfacción garantizada",
+        "instant": "Acceso instantáneo"
+      }
+    }
+  }
+}

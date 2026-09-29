@@ -1,0 +1,35 @@
+{
+  "heroSearch": {
+    "badge": "Tu guía local en Mallorca",
+    "title": "¿Qué hacer en Mallorca?",
+    "subtitle": "Descubre los mejores lugares, restaurantes y actividades recomendados por un local",
+    "searchPlaceholder": "Buscar un artículo, un lugar...",
+    "noResults": "Sin resultados para",
+    "viewAll": "Ver todo"
+  },
+  "categoryCarousel": {
+    "title": "Explorar por Tema",
+    "subtitle": "Encuentra exactamente lo que buscas",
+    "articles": "artículo",
+    "articles_plural": "artículos"
+  },
+  "articleCarousel": {
+    "recentTitle": "Artículos Recientes",
+    "recentSubtitle": "Los últimos consejos y ofertas",
+    "popularTitle": "Los Más Populares",
+    "popularSubtitle": "Lo que les encanta a los viajeros",
+    "viewAll": "Ver todo",
+    "read": "Leer",
+    "noArticles": "No hay artículos disponibles por el momento."
+  },
+  "productCarousel": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Todo para preparar tu estancia en Mallorca",
+    "viewAll": "Ver todo",
+    "discover": "Descubrir",
+    "book": "Reservar",
+    "seeOptions": "Ver opciones",
+    "ctaButton": "Descubrir todos nuestros servicios"
+  }
+}
+

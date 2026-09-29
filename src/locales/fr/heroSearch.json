@@ -1,0 +1,35 @@
+{
+  "heroSearch": {
+    "badge": "Votre guide local à Majorque",
+    "title": "Que faire à Majorque ?",
+    "subtitle": "Découvrez les meilleurs spots, restaurants et activités recommandés par un local",
+    "searchPlaceholder": "Rechercher un article, un lieu...",
+    "noResults": "Aucun résultat pour",
+    "viewAll": "Voir tout"
+  },
+  "categoryCarousel": {
+    "title": "Explorer par Thème",
+    "subtitle": "Trouvez exactement ce que vous cherchez",
+    "articles": "article",
+    "articles_plural": "articles"
+  },
+  "articleCarousel": {
+    "recentTitle": "Articles Récents",
+    "recentSubtitle": "Les derniers bons plans et conseils",
+    "popularTitle": "Les Plus Populaires",
+    "popularSubtitle": "Ce que les voyageurs adorent",
+    "viewAll": "Voir tout",
+    "read": "Lire",
+    "noArticles": "Aucun article disponible pour le moment."
+  },
+  "productCarousel": {
+    "title": "Nos Services",
+    "subtitle": "Tout pour préparer votre séjour à Majorque",
+    "viewAll": "Voir tout",
+    "discover": "Découvrir",
+    "book": "Réserver",
+    "seeOptions": "Voir les options",
+    "ctaButton": "Découvrir tous nos services"
+  }
+}
+

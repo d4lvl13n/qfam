@@ -1,0 +1,76 @@
+{
+  "guideExpatiation": {
+    "meta": {
+      "title": "Guía de Expatriación en Mallorca y España 2026",
+      "description": "La guía completa para la expatriación exitosa en Mallorca y España. Procedimientos administrativos, vivienda, trabajo, salud. Todo lo que necesitas saber por solo €9,99."
+    },
+    "hero": {
+      "badge": "Guía de Expatriación 2026",
+      "title": "Guía de Expatriación",
+      "subtitle": "en Mallorca y España 2026",
+      "cta": "🌞 ¡Tu nueva vida bajo el sol español comienza aquí!",
+      "button": "Descargar ahora (€9,99)"
+    },
+    "intro": {
+      "main": "¿Sueñas con instalarte en Mallorca? ¿Deseas disfrutar de sus playas paradisíacas y su clima templado? ¿Te atrae su estilo de vida único? Esta guía ha sido diseñada para acompañarte paso a paso en esta aventura.",
+      "sub": "En esta guía, comparto mi experiencia personal contigo. Descubre mis itinerarios favoritos y los restaurantes que adoro. Disfruta de todas las actividades imprescindibles para vivir una experiencia inolvidable. Ya sea que estés en Mallorca por un fin de semana o una semana, esta guía te acompañará."
+    },
+    "why": {
+      "title": "¿Por qué elegir esta guía?",
+      "subtitle": "Esta guía es mucho más que un simple libro",
+      "reasons": [
+        {
+          "title": "Simplifica tus trámites",
+          "text": "Todos los documentos y pasos explicados claramente para facilitarte la administración."
+        },
+        {
+          "title": "Encontrar vivienda",
+          "text": "Descubre los mejores consejos y plataformas a conocer para encontrar rápidamente."
+        },
+        {
+          "title": "Trabajo e integración",
+          "text": "Consejos prácticos para trabajar e integrarse. Oportunidades de empleo y vida social."
+        },
+        {
+          "title": "Salud, fiscalidad, educación",
+          "text": "Todo lo que necesitas saber para una expatriación exitosa y serena."
+        }
+      ]
+    },
+    "get": {
+      "title": "Lo que recibirás",
+      "items": [
+        {
+          "title": "Plan de acción detallado",
+          "text": "Un plan de acción concreto para cada paso de tu expatriación."
+        },
+        {
+          "title": "Información actualizada",
+          "text": "Información basada en experiencia real y fuentes confiables."
+        },
+        {
+          "title": "Acceso a la comunidad",
+          "text": "Acceso a redes y grupos de apoyo para sentirte en casa rápidamente."
+        }
+      ]
+    },
+    "community": {
+      "title": "Únete a nuestra comunidad de expatriados",
+      "subtitle": "Síguenos para más consejos, trucos y apoyo entre expatriados francófonos."
+    },
+    "cta": {
+      "title": "¿Listo para dar el paso?",
+      "priceLabel": "Acceso inmediato",
+      "button": "Compra la guía ahora"
+    },
+    "important": {
+      "title": "💡 Pago seguro a través de Stripe",
+      "text1": "Pago 100% seguro (encriptación de extremo a extremo)",
+      "text2": "No necesitas crear una cuenta y puedes usar cualquier tarjeta",
+      "text3": "Validación inmediata, recibes tu guía sin esperar. Asegúrate de proporcionar tu email al comprar.",
+      "email": "Contáctame por email",
+      "whatsapp": "Contáctame en WhatsApp"
+    }
+  }
+}
+

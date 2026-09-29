@@ -1,0 +1,64 @@
+{
+  "about": {
+    "badge": "À propos",
+    "hero": {
+      "title": "Salut, moi c'est",
+      "titleHighlight": "Rony",
+      "subtitle": "Que Faire à Majorque est une agence de contenu et de services touristiques spécialisée dans la découverte authentique de l'île.",
+      "stat1": {
+        "value": "10+",
+        "label": "Ans à Majorque"
+      },
+      "stat2": {
+        "value": "500+",
+        "label": "Articles publiés"
+      },
+      "stat3": {
+        "value": "50k+",
+        "label": "Voyageurs aidés"
+      },
+      "floatingCard1": "Basé à Palma",
+      "floatingCard2": "Guide certifié"
+    },
+    "mission": {
+      "badge": "Notre mission",
+      "title": "Qui sommes-nous",
+      "description": "Que Faire à Majorque est une agence de contenu et de services touristiques spécialisée dans la découverte authentique de l'île.",
+      "missionText": "Notre mission : offrir aux voyageurs des informations fiables, locales et pratiques pour organiser un séjour inoubliable, sans stress et sans mauvaises surprises."
+    },
+    "team": {
+      "badge": "Notre équipe",
+      "title": "Une équipe passionnée par Majorque",
+      "description": "Notre équipe explore l'île au quotidien : marchés, plages, villages, randonnées, événements culturels, gastronomie locale…",
+      "detail": "Chaque recommandation est vérifiée, testée et mise à jour régulièrement afin de garantir une information claire, honnête et utile."
+    },
+    "content": {
+      "badge": "Nos contenus",
+      "title": "Des contenus pensés pour les voyageurs",
+      "description": "Nous créons des guides digitaux, itinéraires prêts à l'emploi, conseils pratiques, vidéos immersives et articles détaillés afin d'aider chacun à profiter de Majorque comme un local."
+    },
+    "services": {
+      "badge": "Nos services",
+      "title": "Des services de confiance",
+      "description": "Nous collaborons avec des partenaires sélectionnés pour leur sérieux : locations de voiture, excursions, visites guidées, activités familiales et expériences uniques sur l'île."
+    },
+    "commitment": {
+      "badge": "Notre engagement",
+      "title": "Notre engagement",
+      "description": "Rendre Majorque accessible à tous, en proposant :",
+      "points": [
+        "des conseils basés sur la réalité du terrain",
+        "des informations actualisées",
+        "une sélection d'activités de qualité",
+        "une vision locale et durable du tourisme"
+      ]
+    },
+    "cta": {
+      "title": "Prêt à découvrir Majorque ?",
+      "subtitle": "Explorez nos guides, lisez nos articles, ou contactez-nous directement pour des conseils personnalisés.",
+      "button1": "Découvrir les guides",
+      "button2": "Nous contacter"
+    }
+  }
+}
+

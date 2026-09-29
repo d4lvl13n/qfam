@@ -1,0 +1,102 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "classes": "Services",
+    "gallery": "Galerie",
+    "testimonials": "Avis",
+    "instructors": "Guide",
+    "schedule": "Horaires",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contact",
+    "book_now": "Réserver Maintenant",
+    "book_class": "Explorer nos services",
+    "language": "Langue"
+  },
+  "brand": {
+    "name": "Que faire à Majorque"
+  },
+  "common": {
+    "learn_more": "En savoir plus",
+    "get_started": "Commencer",
+    "book_class": "Réserver un tour",
+    "view_all": "Voir tout",
+    "close": "Fermer",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "required": "Requis",
+    "optional": "Optionnel"
+  },
+  "buttons": {
+    "first_class_free": "Guide Gratuit",
+    "view_schedule": "Voir les services",
+    "contact_us": "Contactez-nous",
+    "contact_whatsapp": "Contacter par WhatsApp",
+    "sign_up": "S'inscrire",
+    "login": "Se connecter"
+  },
+  "forms": {
+    "name": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "message": "Message",
+    "submit": "Envoyer",
+    "cancel": "Annuler"
+  },
+  "time": {
+    "morning": "Matin",
+    "afternoon": "Après-midi",
+    "evening": "Soir",
+    "sunrise": "Lever du soleil",
+    "early_morning": "Tôt le matin"
+  },
+  "languages": {
+    "spanish": "Español",
+    "english": "English",
+    "french": "Français",
+    "current": "FR"
+  },
+  "blog": {
+    "badge": "Notre Blog",
+    "title": "Conseils & Actualités Majorque",
+    "subtitle": "Découvrez nos meilleurs conseils, guides pratiques et actualités pour profiter pleinement de Majorque",
+    "loading": "Chargement des articles...",
+    "error_title": "Erreur de chargement",
+    "coming_soon_title": "Bientôt disponible",
+    "coming_soon_subtitle": "Nous préparons du contenu inspirant pour vous",
+    "read_more": "Lire plus",
+    "back_to_blog": "Retour au Blog",
+    "article_badge": "Article",
+    "loading_article": "Chargement de l'article...",
+    "post_not_found": "Article introuvable",
+    "post_not_found_description": "L'article que vous cherchez n'existe pas ou a été supprimé.",
+    "view_all_articles": "Voir tous les articles",
+    "share": "Partager",
+    "reading_time": "min de lecture",
+    "load_more": "Charger plus d'articles",
+    "loading_more": "Chargement en cours...",
+    "meta_title": "Blog | Que faire à Majorque",
+    "meta_description": "Dernières actualités, conseils pratiques et guides pour découvrir Majorque avec Rony."
+  }
+  ,
+  "home": {
+    "reviews": {
+      "title": "Ils nous font confiance",
+      
+      "basedOn": "Basé sur {{count}} avis Google",
+      "widgetPlaceholder": "Widget Google Reviews — intégration en cours",
+      "cta": "Découvrir nos offres"
+    },
+    "about": {
+      "title": "Votre guide local pour explorer Majorque",
+      "excerpt": "Je m'appelle Rony et je vis à Majorque depuis plus de 10 ans. Passionné par cette île magnifique, je partage mes meilleures adresses secrètes, itinéraires authentiques et conseils pratiques pour que vous profitiez pleinement de votre séjour, sans perdre de temps ni tomber dans les pièges touristiques.",
+      "cta": "En savoir plus sur Rony",
+      "feature1": "Plus de 10 ans d'expérience locale à Majorque",
+      "feature2": "Conseils authentiques testés et approuvés sur place",
+      "feature3": "Partenariats fiables et recommandations honnêtes"
+    }
+  }
+} 

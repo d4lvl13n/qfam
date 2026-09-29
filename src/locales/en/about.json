@@ -1,0 +1,64 @@
+{
+  "about": {
+    "badge": "About",
+    "hero": {
+      "title": "Hi, I'm",
+      "titleHighlight": "Rony",
+      "subtitle": "What to Do in Mallorca is a content and tourism services agency specialized in the authentic discovery of the island.",
+      "stat1": {
+        "value": "10+",
+        "label": "Years in Mallorca"
+      },
+      "stat2": {
+        "value": "500+",
+        "label": "Published articles"
+      },
+      "stat3": {
+        "value": "50k+",
+        "label": "Travelers helped"
+      },
+      "floatingCard1": "Based in Palma",
+      "floatingCard2": "Certified guide"
+    },
+    "mission": {
+      "badge": "Our mission",
+      "title": "Who we are",
+      "description": "What to Do in Mallorca is a content and tourism services agency specialized in the authentic discovery of the island.",
+      "missionText": "Our mission: to offer travelers reliable, local and practical information to organize an unforgettable stay, without stress and without bad surprises."
+    },
+    "team": {
+      "badge": "Our team",
+      "title": "A team passionate about Mallorca",
+      "description": "Our team explores the island daily: markets, beaches, villages, hiking trails, cultural events, local gastronomy…",
+      "detail": "Each recommendation is verified, tested and regularly updated to guarantee clear, honest and useful information."
+    },
+    "content": {
+      "badge": "Our content",
+      "title": "Content designed for travelers",
+      "description": "We create digital guides, ready-to-use itineraries, practical advice, immersive videos and detailed articles to help everyone enjoy Mallorca like a local."
+    },
+    "services": {
+      "badge": "Our services",
+      "title": "Trusted services",
+      "description": "We collaborate with partners selected for their reliability: car rentals, excursions, guided tours, family activities and unique experiences on the island."
+    },
+    "commitment": {
+      "badge": "Our commitment",
+      "title": "Our commitment",
+      "description": "Making Mallorca accessible to everyone, by offering:",
+      "points": [
+        "advice based on ground reality",
+        "updated information",
+        "a selection of quality activities",
+        "a local and sustainable vision of tourism"
+      ]
+    },
+    "cta": {
+      "title": "Ready to discover Mallorca?",
+      "subtitle": "Explore our guides, read our articles, or contact us directly for personalized advice.",
+      "button1": "Discover the guides",
+      "button2": "Contact us"
+    }
+  }
+}
+

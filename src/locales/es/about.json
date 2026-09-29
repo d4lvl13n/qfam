@@ -1,0 +1,64 @@
+{
+  "about": {
+    "badge": "Acerca de",
+    "hero": {
+      "title": "Hola, soy",
+      "titleHighlight": "Rony",
+      "subtitle": "Que Hacer en Mallorca es una agencia de contenido y servicios turísticos especializada en el descubrimiento auténtico de la isla.",
+      "stat1": {
+        "value": "10+",
+        "label": "Años en Mallorca"
+      },
+      "stat2": {
+        "value": "500+",
+        "label": "Artículos publicados"
+      },
+      "stat3": {
+        "value": "50k+",
+        "label": "Viajeros ayudados"
+      },
+      "floatingCard1": "Basado en Palma",
+      "floatingCard2": "Guía certificado"
+    },
+    "mission": {
+      "badge": "Nuestra misión",
+      "title": "Quiénes somos",
+      "description": "Que Hacer en Mallorca es una agencia de contenido y servicios turísticos especializada en el descubrimiento auténtico de la isla.",
+      "missionText": "Nuestra misión: ofrecer a los viajeros información confiable, local y práctica para organizar una estancia inolvidable, sin estrés y sin malas sorpresas."
+    },
+    "team": {
+      "badge": "Nuestro equipo",
+      "title": "Un equipo apasionado por Mallorca",
+      "description": "Nuestro equipo explora la isla a diario: mercados, playas, pueblos, senderos, eventos culturales, gastronomía local…",
+      "detail": "Cada recomendación es verificada, probada y actualizada regularmente para garantizar información clara, honesta y útil."
+    },
+    "content": {
+      "badge": "Nuestros contenidos",
+      "title": "Contenidos pensados para viajeros",
+      "description": "Creamos guías digitales, itinerarios listos para usar, consejos prácticos, videos inmersivos y artículos detallados para ayudar a todos a disfrutar de Mallorca como un local."
+    },
+    "services": {
+      "badge": "Nuestros servicios",
+      "title": "Servicios de confianza",
+      "description": "Colaboramos con socios seleccionados por su seriedad: alquiler de coches, excursiones, visitas guiadas, actividades familiares y experiencias únicas en la isla."
+    },
+    "commitment": {
+      "badge": "Nuestro compromiso",
+      "title": "Nuestro compromiso",
+      "description": "Hacer Mallorca accesible para todos, ofreciendo:",
+      "points": [
+        "consejos basados en la realidad del terreno",
+        "información actualizada",
+        "una selección de actividades de calidad",
+        "una visión local y sostenible del turismo"
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para descubrir Mallorca?",
+      "subtitle": "Explora nuestras guías, lee nuestros artículos o contáctanos directamente para consejos personalizados.",
+      "button1": "Descubrir las guías",
+      "button2": "Contactarnos"
+    }
+  }
+}
+

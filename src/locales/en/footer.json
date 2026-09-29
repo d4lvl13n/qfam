@@ -1,0 +1,34 @@
+{
+  "footer": {
+    "brand": {
+      "description": "Your local guide to discover Mallorca: digital guides, car rental, guided tours in Palma and more. An authentic experience on the island."
+    },
+    "navigation": {
+      "title": "Navigation",
+      "home": "Home",
+      "about": "About",
+      "classes": "Services",
+      "gallery": "Gallery",
+      "contact": "Contact"
+    },
+    "contact": {
+      "title": "Contact",
+      "location": "Alcudia, Mallorca",
+      "email": "quefaireamajorque@gmail.com",
+      "whatsapp": "Contact me",
+      "whatsapp_message": "Hello! I'm interested in your services to discover Mallorca. Could you give me more information?"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "youtube": "YouTube",
+      "whatsapp": "WhatsApp"
+    },
+    "bottom": {
+      "copyright": "© 2026 Que faire à Majorque - Rony.",
+      "made_with_love": "Made with love for travelers to Mallorca",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  }
+} 

@@ -1,0 +1,34 @@
+{
+  "footer": {
+    "brand": {
+      "description": "Votre guide local pour découvrir Majorque : guides digitaux, location de voiture, visites guidées à Palma et bien plus. Une expérience authentique sur l'île."
+    },
+    "navigation": {
+      "title": "Navigation",
+      "home": "Accueil",
+      "about": "À propos",
+      "classes": "Services",
+      "gallery": "Galerie",
+      "contact": "Contact"
+    },
+    "contact": {
+      "title": "Contact",
+      "location": "Palma, Majorque",
+      "email": "quefaireamajorque@gmail.com",
+      "whatsapp": "Contactez-moi",
+      "whatsapp_message": "Bonjour ! Je suis intéressé(e) par vos services pour découvrir Majorque. Pourriez-vous me donner plus d'informations ?"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "youtube": "YouTube",
+      "whatsapp": "WhatsApp"
+    },
+    "bottom": {
+      "copyright": "© 2026 Que faire à Majorque - Rony.",
+      "made_with_love": "Fait avec amour pour les voyageurs à Majorque",
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation"
+    }
+  }
+} 

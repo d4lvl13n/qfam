@@ -1,0 +1,21 @@
+{
+  "finalCTA": {
+    "badge": "🎯 Prêt à Découvrir Majorque ?",
+    "title": "Choisissez Votre Guide Dès Maintenant",
+    "subtitle": "Rejoignez des centaines de voyageurs et expatriés conquis",
+    "guideTravel": {
+      "title": "Guide Voyage",
+      "price": "20€",
+      "socialProof": "500+ voyageurs conquis",
+      "cta": "Découvrir le Guide"
+    },
+    "guideExpat": {
+      "title": "Guide Expatriation",
+      "price": "9,99€",
+      "socialProof": "300+ expatriés ravis",
+      "cta": "Découvrir le Guide"
+    },
+    "trust": "✅ Paiement Stripe sécurisé • Accès immédiat "
+  }
+}
+

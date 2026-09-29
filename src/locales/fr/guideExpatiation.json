@@ -1,0 +1,76 @@
+{
+  "guideExpatiation": {
+    "meta": {
+      "title": "Guide de l'Expatriation à Majorque et en Espagne 2026",
+      "description": "Le guide complet pour réussir votre expatriation à Majorque et en Espagne. Démarches administratives, logement, travail, santé. Tout ce qu'il faut savoir pour seulement 9,99€."
+    },
+    "hero": {
+      "badge": "Guide Expatriation 2026",
+      "title": "Guide de l'Expatriation",
+      "subtitle": "à Majorque et en Espagne 2026",
+      "cta": "🌞 Votre nouvelle vie sous le soleil espagnol commence ici !",
+      "button": "Télécharger maintenant (9,99€)"
+    },
+    "intro": {
+      "main": "Vous rêvez de vous installer à Majorque ? Vous souhaitez profiter de ses plages paradisiaques et de son climat doux ? Son style de vie unique vous attire-t-il ? Ce guide a été conçu pour vous accompagner pas à pas dans cette aventure.",
+      "sub": "Dans ce guide, je partage mon expérience personnelle avec vous. Découvrez mes itinéraires favoris et les restaurants que j'adore. Profitez de toutes les activités incontournables pour vivre un séjour inoubliable. Que vous soyez à Majorque pour un week-end ou une semaine, ce guide saura vous accompagner."
+    },
+    "why": {
+      "title": "Pourquoi choisir ce guide ?",
+      "subtitle": "Ce guide est bien plus qu'un simple livre",
+      "reasons": [
+        {
+          "title": "Simplifiez vos démarches",
+          "text": "Tous les documents et étapes expliqués clairement pour vous faciliter l'administrative."
+        },
+        {
+          "title": "Trouver un logement",
+          "text": "Découvrez les meilleures astuces et les plateformes à connaître pour trouver rapidement."
+        },
+        {
+          "title": "Travail et intégration",
+          "text": "Des conseils pratiques pour travailler et s'intégrer. Opportunités d'emploi et vie sociale."
+        },
+        {
+          "title": "Santé, fiscalité, éducation",
+          "text": "Tout ce que vous devez savoir pour une expatriation réussie et sereine."
+        }
+      ]
+    },
+    "get": {
+      "title": "Ce que vous recevrez",
+      "items": [
+        {
+          "title": "Plan d'action détaillé",
+          "text": "Un plan d'action concret pour chaque étape de votre expatriation."
+        },
+        {
+          "title": "Informations à jour",
+          "text": "Des informations basées sur l'expérience réelle et des sources fiables."
+        },
+        {
+          "title": "Accès à la communauté",
+          "text": "L'accès à des réseaux et groupes d'entraide pour vous sentir rapidement chez vous."
+        }
+      ]
+    },
+    "community": {
+      "title": "Rejoignez notre communauté d'expatriés",
+      "subtitle": "Suivez-nous pour plus de conseils, d'astuces et d'entraide entre expatriés francophones."
+    },
+    "cta": {
+      "title": "Prêt à franchir le pas ?",
+      "priceLabel": "Accès immédiat",
+      "button": "Acheter le guide maintenant"
+    },
+    "important": {
+      "title": "💡 Paiement sécurisé via Stripe",
+      "text1": "Paiement 100% sécurisé (cryptage de bout en bout)",
+      "text2": "Vous n'avez pas besoin de créer de compte et vous pouvez utiliser n'importe quelle carte",
+      "text3": "Validation immédiate, vous recevez votre guide sans attendre. Indique bien ton email au moment de l'achat.",
+      "email": "Me contacter par email",
+      "whatsapp": "Me contacter sur WhatsApp"
+    }
+  }
+}
+

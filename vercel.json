@@ -1,0 +1,57 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "index, follow"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/produit/:slug*",
+      "destination": "/guides",
+      "statusCode": 301
+    },
+    {
+      "source": "/bons-plans-2025-majorque",
+      "destination": "/blog/bons-plans-2025-majorque/",
+      "statusCode": 301
+    },
+    {
+      "source": "/location-de-voiture-a-majorque",
+      "destination": "/blog/louez-une-voiture-a-majorque-avec-offugo-et-profitez-de-10/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/:path*",
+      "destination": "/:path*",
+      "statusCode": 301
+    },
+    {
+      "source": "/fr",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/fr/:path*",
+      "destination": "/:path*",
+      "statusCode": 301
+    }
+  ],
+  "rewrites": [
+    { "source": "/wp-rest/(.*)", "destination": "https://quefaireamajorque-wordpress.captain.codolie.com/wp-json/$1" },
+    { "source": "/wp-graphql", "destination": "https://quefaireamajorque-wordpress.captain.codolie.com/graphql" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

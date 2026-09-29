@@ -1,0 +1,35 @@
+{
+  "heroSearch": {
+    "badge": "Your local guide in Mallorca",
+    "title": "What to do in Mallorca?",
+    "subtitle": "Discover the best spots, restaurants and activities recommended by a local",
+    "searchPlaceholder": "Search for an article, a place...",
+    "noResults": "No results for",
+    "viewAll": "View all"
+  },
+  "categoryCarousel": {
+    "title": "Explore by Theme",
+    "subtitle": "Find exactly what you're looking for",
+    "articles": "article",
+    "articles_plural": "articles"
+  },
+  "articleCarousel": {
+    "recentTitle": "Recent Articles",
+    "recentSubtitle": "Latest tips and deals",
+    "popularTitle": "Most Popular",
+    "popularSubtitle": "What travelers love",
+    "viewAll": "View all",
+    "read": "Read",
+    "noArticles": "No articles available at the moment."
+  },
+  "productCarousel": {
+    "title": "Our Services",
+    "subtitle": "Everything to prepare your stay in Mallorca",
+    "viewAll": "View all",
+    "discover": "Discover",
+    "book": "Book",
+    "seeOptions": "See options",
+    "ctaButton": "Discover all our services"
+  }
+}
+

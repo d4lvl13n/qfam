@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Allow crawling of all images
+Allow: /img/
+
+# Sitemap
+Sitemap: https://quefaireamajorque.com/sitemap.xml

@@ -1,0 +1,76 @@
+{
+  "guideExpatiation": {
+    "meta": {
+      "title": "Expat Guide to Majorca and Spain 2026",
+      "description": "The complete guide to successful expatriation in Majorca and Spain. Admin procedures, housing, work, health. Everything you need to know for just €9.99."
+    },
+    "hero": {
+      "badge": "Expat Guide 2026",
+      "title": "Expatriation Guide",
+      "subtitle": "to Majorca and Spain 2026",
+      "cta": "🌞 Your new life under Spanish sun starts here!",
+      "button": "Download now (€9.99)"
+    },
+    "intro": {
+      "main": "Do you dream of settling in Majorca? Do you want to enjoy its paradisiacal beaches and mild climate? Are you attracted by its unique lifestyle? This guide is designed to accompany you step by step in this adventure.",
+      "sub": "In this guide, I share my personal experience with you. Discover my favorite itineraries and the restaurants I love. Enjoy all the must-do activities to have an unforgettable experience. Whether you're in Majorca for a weekend or a week, this guide will support you."
+    },
+    "why": {
+      "title": "Why choose this guide?",
+      "subtitle": "This guide is much more than just a book",
+      "reasons": [
+        {
+          "title": "Simplify your procedures",
+          "text": "All documents and steps explained clearly to make administration easier."
+        },
+        {
+          "title": "Find housing",
+          "text": "Discover the best tips and platforms to know to find quickly."
+        },
+        {
+          "title": "Work and integration",
+          "text": "Practical advice for working and integrating. Employment opportunities and social life."
+        },
+        {
+          "title": "Health, taxes, education",
+          "text": "Everything you need to know for a successful and serene expatriation."
+        }
+      ]
+    },
+    "get": {
+      "title": "What you will receive",
+      "items": [
+        {
+          "title": "Detailed action plan",
+          "text": "A concrete action plan for each step of your expatriation."
+        },
+        {
+          "title": "Up-to-date information",
+          "text": "Information based on real experience and reliable sources."
+        },
+        {
+          "title": "Community access",
+          "text": "Access to networks and support groups to feel at home quickly."
+        }
+      ]
+    },
+    "community": {
+      "title": "Join our expat community",
+      "subtitle": "Follow us for more advice, tips and support between French-speaking expats."
+    },
+    "cta": {
+      "title": "Ready to take the plunge?",
+      "priceLabel": "Instant access",
+      "button": "Buy the guide now"
+    },
+    "important": {
+      "title": "💡 Secure payment via Stripe",
+      "text1": "100% secure payment (end-to-end encryption)",
+      "text2": "You don't need to create an account and you can use any card",
+      "text3": "Immediate validation, you receive your guide without waiting. Be sure to provide your email when purchasing.",
+      "email": "Contact me by email",
+      "whatsapp": "Contact me on WhatsApp"
+    }
+  }
+}
+

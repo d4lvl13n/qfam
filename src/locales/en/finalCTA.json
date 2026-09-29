@@ -1,0 +1,21 @@
+{
+  "finalCTA": {
+    "badge": "🎯 Ready to Discover Mallorca?",
+    "title": "Choose Your Guide Now",
+    "subtitle": "Join hundreds of satisfied travelers and expats",
+    "guideTravel": {
+      "title": "Travel Guide",
+      "price": "€20",
+      "socialProof": "500+ happy travelers",
+      "cta": "Discover the Guide"
+    },
+    "guideExpat": {
+      "title": "Expat Guide",
+      "price": "€9.99",
+      "socialProof": "300+ satisfied expats",
+      "cta": "Discover the Guide"
+    },
+    "trust": "✅ Secure Payment • Instant Access • 30-day Guarantee"
+  }
+}
+
